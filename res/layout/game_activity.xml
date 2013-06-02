@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical"
+            android:id="@+id/ll"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <View
+                android:background="#cccccc"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" />
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+        <TextView
+                android:id="@+id/tv0"
+                android:background="@drawable/selector"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                />
+        <View
+            android:background="#cccccc"
+            android:layout_width="1dp"
+            android:layout_height="fill_parent" />
+        <TextView
+                android:id="@+id/tv1"
+                android:background="@drawable/selector"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                />
+        <View
+                android:background="#cccccc"
+                android:layout_width="1dp"
+                android:layout_height="fill_parent" />
+        <TextView
+                android:id="@+id/tv2"
+                android:background="@drawable/selector"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                />
+    </LinearLayout>
+        <View
+                android:background="#cccccc"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" />
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+            <TextView
+                    android:id="@+id/tv3"
+                    android:background="@drawable/selector"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    />
+            <View
+                    android:background="#cccccc"
+                    android:layout_width="1dp"
+                    android:layout_height="fill_parent" />
+            <TextView
+                    android:id="@+id/tv4"
+                    android:background="@drawable/selector"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    />
+            <View
+                    android:background="#cccccc"
+                    android:layout_width="1dp"
+                    android:layout_height="fill_parent" />
+            <TextView
+                    android:id="@+id/tv5"
+                    android:background="@drawable/selector"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    />
+        </LinearLayout>
+        <View
+                android:background="#cccccc"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" />
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+            <TextView
+                    android:id="@+id/tv6"
+                    android:background="@drawable/selector"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    />
+            <View
+                    android:background="#cccccc"
+                    android:layout_width="1dp"
+                    android:layout_height="fill_parent" />
+            <TextView
+                    android:id="@+id/tv7"
+                    android:background="@drawable/selector"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    />
+            <View
+                    android:background="#cccccc"
+                    android:layout_width="1dp"
+                    android:layout_height="fill_parent" />
+            <TextView
+                    android:id="@+id/tv8"
+                    android:background="@drawable/selector"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    />
+        </LinearLayout>
+        <View
+                android:background="#cccccc"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" />
+    </LinearLayout>
+
+
+</LinearLayout>
+

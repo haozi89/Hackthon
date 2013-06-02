@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="normal">#FFFFFF</drawable>
+    <drawable name="pressed">#FF0000</drawable>
+    <drawable name="black">#000000</drawable>
+</resources>
